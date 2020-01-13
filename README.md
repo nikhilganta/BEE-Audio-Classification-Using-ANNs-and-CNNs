@@ -1,4 +1,4 @@
-# BEE-Image-and-Audio-Classification-Using-ANNs
+# BEE-Image-and-Audio-Classification-Using-CNNs
 An open source honeybee image and audio dataset is classified into two classes (BEE or NO-BEE) by training multiple CNNs
 
 ### Links to the Dataset
